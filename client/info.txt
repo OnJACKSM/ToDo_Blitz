@@ -1,1 +1,0 @@
-Criação de arquivos para sincronização com repositório remoto
